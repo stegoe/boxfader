@@ -8,7 +8,7 @@ jQuery, nothing more.
 
 #### Compatibility
 
-Should work fine in all modern browser, still to be tested in legacy browsers.
+Should work in all modern browser, still to be tested in legacy browsers.
 
 ## Usage
 
@@ -22,7 +22,7 @@ Should work fine in all modern browser, still to be tested in legacy browsers.
 ## Calling
 
 ```js
-$('.kopfbilder').boyfader( [ options ] );
+$('.kopfbilder').boxfader( [ options ] );
 ```
 
 ### [options]
